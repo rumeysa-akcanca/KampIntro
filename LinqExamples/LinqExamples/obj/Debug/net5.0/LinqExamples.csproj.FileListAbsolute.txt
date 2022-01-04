@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.exe
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.deps.json
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.runtimeconfig.json
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.dll
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\ref\LinqExamples.dll
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.pdb
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.dll
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\ref\LinqExamples.dll
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.pdb
+C:\Users\ASUS\Desktop\KampIntro\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.genruntimeconfig.cache
