@@ -5711,11 +5711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Finduk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Finduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5732,14 +5732,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }

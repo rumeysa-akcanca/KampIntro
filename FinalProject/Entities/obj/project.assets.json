@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Finduk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Finduk\\Desktop\\KampIntro\\FinalProject\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Finduk\\Documents\\GitHub\\KampIntro\\FinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Finduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
