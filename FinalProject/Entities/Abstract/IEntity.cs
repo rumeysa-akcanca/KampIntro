@@ -6,6 +6,6 @@ namespace Entities.Abstract
 {
   public  interface IEntity
     {
-        //imzalama : veri tabanı nesnesi olduğuna dair
+        //imzalama : veri tabanı nesnesi olduğuna dair işaretleme
     }
 }
